@@ -9,6 +9,7 @@ export const AMM_SUPPORTED_CHAINS = [
   ParachainId.PENDULUM,
 ]
 
+
 export const MARKET_SUPPORTED_CHAINS = [
   ParachainId.MOONBEAM,
 ]
